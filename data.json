@@ -1,0 +1,35 @@
+{
+"basics":{
+"photo":"pic.png",
+"name":"Yuvaraj",
+"email":"yuvarajreddycb@gmail.com",
+"mobile":"9874561230",
+"address":"Nagari,AP"
+},
+
+"career":{
+  "info":"I aspire for a challenging position in a professional Organization where I can enhance my professional skills and strengthen my performance in adding with Organization’s motto."
+},
+"education":[
+  {
+    "course":"MCA",
+    "college":"SVPCET,Puttur",
+    "data":["2017-20","81%"]
+  },
+  {
+    "course":"B.Sc(computers)",
+    "college":"GDC,Nagari",
+    "data":["2014-17","59.75%"]
+  },
+  {
+    "course":"Inter(MPC)",
+    "college":"PCN Govt Jr college,Nagari",
+    "data":["2012-14","59.3%"]
+  },
+  {
+    "course":"S.S.C",
+    "college":"ZPHS,EKM",
+    "data":["2011-12","85%"]
+  }
+]
+}
